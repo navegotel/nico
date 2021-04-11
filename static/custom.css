@@ -1,0 +1,8 @@
+.hero-bg{
+    background-image: url(/static/img/bg_main_01.png) ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #CCC;
+}
